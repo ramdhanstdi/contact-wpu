@@ -8,7 +8,7 @@ const {
   deleteContact,
   updateContact,
 } = require("./utils/contacts");
-//const morgan = require('morgan');
+
 const app = express();
 const port = 3000;
 
