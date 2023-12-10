@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const dirPath = "./data";
+const dirPath = "./tmp";
 const dataPath = path.join(dirPath, "contacts.json");
 
 if (!fs.existsSync(dirPath)) {
