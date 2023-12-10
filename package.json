@@ -14,7 +14,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start" : "node app"
+    "start" : "node index.js"
   },
   "keywords": [],
   "author": "Diviandini Azzahra",
